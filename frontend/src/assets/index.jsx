@@ -7,6 +7,12 @@ import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
+import aichat from "./images/projects/aichat.jpg"
+import doctor from "./images/projects/doctor.jpg"
+import food from "./images/projects/food.jpg"
+import forever from "./images/projects/forever.jpg"
+import realestate from "./images/projects/realestate.jpg"
+import uber from "./images/projects/uber.png"
 
 export {
   logo,
@@ -18,4 +24,10 @@ export {
   testimonialTwo,
   quote,
   contactImg,
+  aichat,
+  doctor,
+  food,
+  forever,
+  realestate,
+  uber,
 };

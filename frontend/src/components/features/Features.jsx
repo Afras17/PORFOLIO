@@ -14,40 +14,34 @@ const Features = () => {
       <Title title="Features" des="What I Do" />
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">
         <Card
-          title="Business Stratagy"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-         
+          title="Web Development"
+          des="Highly skilled in Backend Development with NodeJS and its Express framework also having experience with managing the MongoDB DataBase"
+          icon={<FaGlobe />}
         />
         <Card
-          title="App Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<AiFillAppstore />}
-        />
-        <Card
-          title="SEO Optimisation"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<SiProgress />}
-        />
-        <Card
-          title="Mobile Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<FaMobile />}
-        />
-        <Card
-          title="UX Design"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="Version Controller(git)"
+          des="Experience in managing and using the code by using the version controllers mainly git and managing the code to gitgub"
           icon={<SiAntdesign />}
         />
         <Card
-          title="Hosting Websites"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<FaGlobe />}
+          title="UI Design"
+          des="Creating attractive, engaging, simple and comfirtable styled User Interface using the Figma software with exiting and unique design"
+          icon={<AiFillAppstore />}
+        />
+        <Card
+          title="Video Editing"
+          des="Advanced knowledge in Adobe Premiere Pro video editing software , Making unskippable and engaging content Videos through mesmerising visuals"
+          icon={<SiProgress />}
+        />
+        <Card
+          title="Web Design"
+          des="Highly skilled in Frontend Development with HTML, CSS(Tailwind,Bootstrap),JavaScript and modern frameworks like React JS and Next JS"
+          icon={<FaMobile />}
+        />
+        <Card
+          title="Photoshop"
+          des="Advanced knowledge in Adobe PhotoShop Photo editing software , creating own presets through color grading and making life to photos "
+          
         />
       </div>
     </section>

@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree } from "../../assets/index";
+import { projectOne, projectTwo, projectThree,aichat,doctor,food,realestate,uber,forever} from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -19,32 +19,32 @@ const Projects = () => {
         <ProjectsCard
           title="DOCTOR APPOINTMENT APPLICATION"
           des=" A fully funtioned Mern Stack Responsive Web App to take the Appointment Consultant of Doctores, with a Doctor Panel as well as an Admin Panel."
-          src={projectOne}
+          src={doctor}
         />
         <ProjectsCard
           title="FOREVER E-commerce"
           des="Well optimized Merchant Online Store Developed with Node.JS and frontend framework React,a responsive e-commerce website including an Admin Panel."
-          src={projectTwo}
+          src={forever}
         />
         <ProjectsCard
           title="AI Chat Application"
           des=" Futuristic AI chat bot with personal message sending feature build using latest google ai tech Gemini and Mern Stack Technology."
-          src={projectThree}
+          src={aichat}
         />
         <ProjectsCard
           title="REAL-ESTATE WEBSITE"
           des=" A React framework based fully responsive Website for Show Casing the Real-Estate Buisness , Build using HTML-5, Tailwind CSS and JavaScript. "
-          src={projectThree}
+          src={realestate}
         />
         <ProjectsCard
           title="FOOD ORDERING APPLICATION"
           des=" Full Stack Mern Food Ordering Project used with Tailwind CSS for making it responsive , Also having an Admin Controled Panel for taking the orders from the Customers."
-          src={projectOne}
+          src={food}
         />
         <ProjectsCard
           title="UBER CAB CLONE"
           des=" Modern Cab booking Web Application Developed with Google Cloud Map API's and the traditional Mern Stack Development which includes the Captain Interface."
-          src={projectTwo}
+          src={uber}
         />
       </div>
     </section>

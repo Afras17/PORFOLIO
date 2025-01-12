@@ -19,7 +19,7 @@ const ContactLeft = () => {
           "Make your hand to get exited works of mine"
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+9995170900</span>
+          Phone: <span className="text-lightText">+971 55142 8433</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email: <span className="text-lightText">afrasrahim11@gmail.com</span>
