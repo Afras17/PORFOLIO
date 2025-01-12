@@ -8,16 +8,16 @@ const Footer = () => {
       <div className="w-full h-full flex flex-col gap-8">
       <h2 className="text-base uppercase font-titleFont mb-4">Find me on</h2>
         <div className="flex gap-4">
-          <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
-               <span className="bannerIcon">
-                  <FaGithub />
-               </span>
+          <a href="https://github.com/Afras17" target="blank">
+            <span className="bannerIcon">
+              <FaGithub />
+            </span>
           </a>
-                      <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
-                        <span className="bannerIcon">
-                          <FaLinkedinIn />
-                        </span>
-                      </a>
+          <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+             <span className="bannerIcon">
+               <FaLinkedinIn />
+             </span>
+          </a>
         </div>
       </div>
       <div className="w-full h-full">

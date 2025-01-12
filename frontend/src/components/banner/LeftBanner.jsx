@@ -38,7 +38,7 @@ I'm always on the look out for opportunities that could broaden and enhance my s
             Find me in
           </h2>
           <div className="flex gap-4">
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            <a href="https://github.com/Afras17" target="blank">
               <span className="bannerIcon">
                 <FaGithub />
               </span>
