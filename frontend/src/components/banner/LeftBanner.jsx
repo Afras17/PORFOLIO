@@ -43,7 +43,7 @@ I'm always on the look out for opportunities that could broaden and enhance my s
                 <FaGithub />
               </span>
             </a>
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            <a href="https://www.linkedin.com/in/afras-rahim" target="blank">
               <span className="bannerIcon">
                 <FaLinkedinIn />
               </span>

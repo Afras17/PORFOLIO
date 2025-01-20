@@ -16,7 +16,7 @@ const ContactLeft = () => {
           MERN Stack Developer
         </p>
         <p className="font-bold text-green-600 tracking-wide">
-          "Make your hand to get exited works of mine"
+          "Interested in working together? Let's have a chat. I'd love to collaborate or help out with a project. Whether you have a question or just want to say hi, hit me up!"
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+971 55142 8433</span>
@@ -33,7 +33,7 @@ const ContactLeft = () => {
                 <FaGithub />
               </span>
             </a>
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            <a href="https://www.linkedin.com/in/afras-rahim" target="blank">
               <span className="bannerIcon">
                 <FaLinkedinIn />
               </span>
